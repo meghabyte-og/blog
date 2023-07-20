@@ -1,7 +1,7 @@
 # blog - a website
 This is a blog management system built using PHP, HTML, CSS, MySQL, and JavaScript. The website allows users to create accounts, post blogs with thumbnails, and view publicly displayed posts on the home page. Posts are categorized by tags for easy navigation, and users can search for specific posts using the search bar. Additionally, the website includes an admin login system that enables administrators to regulate users and their posts.
 <p>
-<img src="https://github.com/meghabyte-og/blog/assets/135510418/caf72773-e7d6-4286-8e1c-ee7c43de5ada" width="650">
+<img src="https://github.com/meghabyte-og/blog/assets/135510418/caf72773-e7d6-4286-8e1c-ee7c43de5ada" width="650" height="350">
 </p>
 
 
