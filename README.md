@@ -12,9 +12,12 @@ This is a blog management system built using PHP, HTML, CSS, MySQL, and JavaScri
 *Blog Posting*:
 * Authenticated users can create and publish blog posts.
 * Each post includes a thumbnail that is displayed on the home page.
-![image](https://github.com/meghabyte-og/blog/assets/135510418/ccf36f37-296a-4b99-8a56-115d801b4864)
-
-![image](https://github.com/meghabyte-og/blog/assets/135510418/76f28df4-ab8f-4b4a-8093-67352c2733df)
+<p>
+<img src="https://github.com/meghabyte-og/blog/assets/135510418/ccf36f37-296a-4b99-8a56-115d801b4864" width="650">
+</p>
+<p>
+<img src="https://github.com/meghabyte-og/blog/assets/135510418/76f28df4-ab8f-4b4a-8093-67352c2733df" width="650">
+</p>
 
 
 *Tagging and Categorization*:
@@ -29,7 +32,9 @@ This is a blog management system built using PHP, HTML, CSS, MySQL, and JavaScri
 * Admins can log in to access the admin dashboard.
 * The admin dashboard allows administrators to manage users and their posts.
 * Inappropriate posts can be taken down, and users can be deleted if necessary.
-![image](https://github.com/meghabyte-og/blog/assets/135510418/7da679cb-baa6-4a4d-801c-53cc30bc76da)
+<p>
+<img src="https://github.com/meghabyte-og/blog/assets/135510418/7da679cb-baa6-4a4d-801c-53cc30bc76da" width="650">
+</p>
 
 
 *Vibrant UI*:
