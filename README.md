@@ -5,7 +5,9 @@ This is a blog management system built using PHP, HTML, CSS, MySQL, and JavaScri
 *User Registration and Login*:
 * Users can create accounts and log in to the website.
 * User authentication is handled securely using PHP sessions and password hashing.
-![image](https://github.com/meghabyte-og/blog/assets/135510418/21ec4257-5e61-4cbd-81b3-babafbb15651)
+<p>
+<img src="https://github.com/meghabyte-og/blog/assets/135510418/21ec4257-5e61-4cbd-81b3-babafbb15651" width="650">
+</p>
 
 *Blog Posting*:
 * Authenticated users can create and publish blog posts.
