@@ -45,5 +45,5 @@ This is a blog management system built using PHP, HTML, CSS, MySQL, and JavaScri
 #### Vibrant UI:
 * The website's design features vibrant colors, providing an engaging user interface.
 <p>
-<img src="https://github.com/meghabyte-og/blog/assets/135510418/76f28df4-ab8f-4b4a-8093-67352c2733df" width="650">
+<img src="https://github.com/meghabyte-og/blog/assets/135510418/c01e40a3-0b84-476d-89f1-368b19d6145f" width="650">
 </p>
