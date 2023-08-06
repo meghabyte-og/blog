@@ -5,7 +5,6 @@ This is a blog management system built using PHP, HTML, CSS, MySQL, and JavaScri
 </p>
 
 
-
 ## Features
 #### User Registration and Login:
 * Users can create accounts and log in to the website.
